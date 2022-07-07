@@ -8,7 +8,7 @@ This repository contains all the files related to Computer Graphics that I have 
 
 ## **Experiment 2 : Drawing line using DDA, Bresenham’s algorithm**
 
-1. Drawing a line using Equation of line 
+1. Drawing a line using Equation of line.
 2. Drawing a line using Bresenham algorithm for m<1.
 3. Drawing a line using Bresenham algorithm for m>1.
 4. Drawing a line using DDA algorithm.
