@@ -4,7 +4,7 @@ This repository contains all the files related to Computer Graphics that I have 
 
 ## **Experiment 1 : Introduction to OpenGL**
  
-1. Green Window Program
+1. Green Window Program.
 
 ## **Experiment 2 : Drawing line using DDA, Bresenham’s algorithm**
 
