@@ -29,7 +29,7 @@ This repository contains all the files related to Computer Graphics that I have 
 
 ## **Experiment 5-6 : Performing Clipping operation on line and polygon using Cohen Sutherland and Sutherland Hodgeman algorithms respectively.**
 
-1. Cohensutherland algorithm
+1. Cohensutherland algorithm.
 2. Sutherland Hodgeman algorithm.
 
 ## **Experiment 7 : Performing 2D transformation on objects.**
